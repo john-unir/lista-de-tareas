@@ -90,13 +90,13 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
     },
     editButton: {
-        backgroundColor: 'green', // Color verde para el botón de editar
+        backgroundColor: 'green',
     },
     deleteButton: {
-        backgroundColor: 'red', // Color rojo para el botón de eliminar
+        backgroundColor: 'red',
     },
     addButton: {
-        backgroundColor: 'green', // Color verde para el botón de añadir
+        backgroundColor: 'green',
         padding: 15,
         marginTop: 20,
     },

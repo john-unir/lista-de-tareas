@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
         color: '#333',
     },
     saveButton: {
-        backgroundColor: 'green', // Color de fondo verde para el botón de guardar
+        backgroundColor: 'green',
         padding: 15,
         borderRadius: 5,
         alignItems: 'center',
